@@ -1,4 +1,5 @@
 # **Let's Learn Official Website**
+### Website link: https://mckellan-highschool.netlify.app/
 
 Welcome to the official repository for the Let's Learn website! This repository contains the source code and assets for the Let's Learn educational platform's website. The website is designed to provide information about courses, facilitate enrollment, and offer valuable resources for students interested in advancing their skills and knowledge.
 
